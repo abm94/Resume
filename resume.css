@@ -1,0 +1,29 @@
+/*resume.css*/
+*{
+    font-family:garamond;
+    background-color:lightsteelblue;
+    box-sizing:border-box;
+}
+h1{
+    padding:0px;
+    margin:0px;
+    
+}
+address{
+    font-size: 14px;
+    font-style:normal;
+}
+
+.sections{
+    list-style-type:none;
+    font-weight:bold;
+}
+.topic{
+    padding-left:20px;
+}
+.content{
+    font-weight:normal;
+    color:black;
+    text-decoration:none;
+    margin-left:40px;
+}
